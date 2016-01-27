@@ -219,6 +219,7 @@ function create_config( )
     "download_media",
     "invite",
     "all",
+    "plugins",
     "leave_ban"
     },
     sudo_users = {119989724,},--Sudo users
@@ -243,7 +244,7 @@ Vamptacus
 
 Our  team
 @Shahabambesik [Sudo]
-@Shahbsaf [Developer]
+@Shahabsaf [Developer]
 @Thisisarman [Manager]
 ]],
     help_text_realm = [[
